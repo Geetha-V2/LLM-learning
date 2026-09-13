@@ -1,0 +1,10 @@
+ABC Company
+ABC Company requires a minimum CGPA of 7.5.
+The selection process includes aptitude, coding, and technical interviews.
+Students should know Java and SQL.
+The company offers software developer roles for fresh graduates.
+
+XYZ Company
+XYZ Company requires a minimum CGPA of 8.0.
+The selection process includes aptitude and two technical interview rounds.
+Students should know Python and basic machine learning.
